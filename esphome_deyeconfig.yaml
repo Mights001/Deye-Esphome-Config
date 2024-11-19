@@ -19,8 +19,7 @@ globals:
      type: float
      restore_value: yes
      initial_value: '30.0'
-#mqtt:
-#  broker: 10.0.0.10 
+
   
 
 esp32:
